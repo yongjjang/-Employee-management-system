@@ -18,6 +18,7 @@
   - [Go To Author's Github Page]()
 - 김광호 (rodvkf72@naver.com)
   - [Go To Author's Github Page](https://github.com/rodvkf72)
-- 신휘정
+- 신휘정 (gleyd1020@gmail.com)
+  - [Go To Author's Github Page](https://github.com/Hwi-Hwi)
 - 이태용 (pastelhawk@gmail.com)
   - [Go To Author's Github Page](https://github.com/yongjjang/)
