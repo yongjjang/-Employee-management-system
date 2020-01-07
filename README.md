@@ -1,8 +1,8 @@
-# Employee Management System(EMS)
- Employee management system Used ProC
+# Service Center System
+ Service Center system Used ProC
  
 ## 개요
-- 용광전자라는 가상의 기업을 상정하여, 기업에서 필요한 기능을 수행하는 데이터베이스 관리 프로그램을 ProC를 사용하여 구현
+- 용광전자라는 가상의 기업을 상정하여, 기업에서 필요한 수리 접수, 기록 저장 등의 기능을 수행하는 데이터베이스 관리 프로그램을 ProC를 사용하여 구현
 
 ## 요구사항
 1. ProC를 사용할 것
