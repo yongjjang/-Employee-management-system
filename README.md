@@ -11,6 +11,7 @@
 
 ## Proc란?
 - Database를 Visual Studio에서 사용할 수 있도록 돕는 전처리기
+- filename.pc 파일을 전처리하여 filename.c 파일을 생성, filename.c 파일을 컴파일하여 실행 파일을 생성
 
 ## Author
 - 권미소
