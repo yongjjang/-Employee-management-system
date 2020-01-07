@@ -7,14 +7,17 @@
 ## 요구사항
 1. ProC를 사용할 것
 2. 데이터베이스를 관리하는 기본적인 CRUD 기능 구현
-3. 커서와 SQL 등을 적극 활용하여 프로그래밍
+3. cursor와 PL/SQL 등을 적극 활용하여 프로그래밍
 
 ## Proc란?
 - Database를 Visual Studio에서 사용할 수 있도록 돕는 전처리기
 - filename.pc 파일을 전처리하여 filename.c 파일을 생성, filename.c 파일을 컴파일하여 실행 파일을 생성
 
 ## Author
-- 권미소
-- 김광호
+- 권미소 (kwonms614@gmail.com)
+  - [Go To Author's Github Page]()
+- 김광호 (rodvkf72@naver.com)
+  - [Go To Author's Github Page](https://github.com/rodvkf72)
 - 신휘정
 - 이태용 (pastelhawk@gmail.com)
+  - [Go To Author's Github Page](https://github.com/yongjjang/)
