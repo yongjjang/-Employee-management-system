@@ -15,7 +15,7 @@
 
 ## Author
 - 권미소 (kwonms614@gmail.com)
-  - [Go To Author's Github Page]()
+  - [Go To Author's Github Page](https://github.com/osmi-le)
 - 김광호 (rodvkf72@naver.com)
   - [Go To Author's Github Page](https://github.com/rodvkf72)
 - 신휘정 (gleyd1020@gmail.com)
